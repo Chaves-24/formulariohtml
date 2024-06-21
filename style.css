@@ -96,3 +96,8 @@ fieldset.grupo .campo {
 .botao, select{
     cursor: pointer;
 }
+@media(max-width:678px){
+    form{
+        padding: 10px;
+    }
+}
